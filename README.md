@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Uriel Yamasaki 🖐️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Uriel GitHub stats](https://github-readme-stats.vercel.app/api?username=uriferra&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
